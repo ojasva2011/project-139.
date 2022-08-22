@@ -1,0 +1,59 @@
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    border: 1px solid white;
+    float: right;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#start{
+    font-size: 22px;
+    font-weight:bold;
+}
+
+#status{
+    font-size:22px ;
+    background-color: aliceblue;
+}
+
+#instruction{
+    text-align: center;
+    font-weight:bold;
+    font-size: 30px;
+}
+
+.modal-dialog{
+    width: 50%;
+}
+
+.modal-content{
+  text-align: left;
+  font-size: 20px;
+}
+
+#restart{
+    color: black;
+    font-weight:bold;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:white     ;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    line-height:3;
+    text-align: center;
+
+}
